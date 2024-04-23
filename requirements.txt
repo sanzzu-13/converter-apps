@@ -1,0 +1,3 @@
+streamlit==<version>  # Replace <version> with the specific version you are using
+forex-python==<version>  # Replace <version> with the specific version you are using
+pandas==<version>  # Include pandas if it's used in your project
